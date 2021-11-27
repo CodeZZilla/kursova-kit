@@ -9,13 +9,13 @@ function Contacts (){
                 <Accordion.Item eventKey="0">
                     <Accordion.Header>Номер телефону</Accordion.Header>
                     <Accordion.Body>
-                        Міський : 068-680-25-51 (Діма)
+                        Міський : 093-87-42-708
                     </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey="1">
                     <Accordion.Header>Веб-сайт</Accordion.Header>
                     <Accordion.Body>
-                        <a href="http://www.viti.edu.ua/">Бугалтер.юа</a>
+                        <a href="https://defence-ua.com/">Сайт Українського ВПК</a>
                     </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey="2">

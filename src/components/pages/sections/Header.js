@@ -8,7 +8,7 @@ function Header(){
             <div className="header-inner">
                 <div className="d-flex align-items-center logo">
                     <Container >
-                        <h1>Інформаційний портал бугалтерії ЗСУ </h1>
+                        <h1>Новинний портал огляду сучаних розробок Українського ВПК </h1>
                     </Container>
                 </div>
             </div>

@@ -16,8 +16,8 @@ class Slider extends React.Component {
                             alt="First slide"
                         />
                         <Carousel.Caption>
-                            <h2>Кращі бугалтери: хто вони? PART – 1 </h2>
-                            <p>7 листопада відзначається День бугалтера ЗСУ...</p>
+                            <h2>ЗСУ провели стрільби з гармат "Рапіра"</h2>
+                            <p>Це тренування стало елементом СКШН "Об’єднані зусилля – 2021"</p>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -28,8 +28,8 @@ class Slider extends React.Component {
                         />
 
                         <Carousel.Caption>
-                            <h2>День бугалтера</h2>
-                            <p>Керівництво факультетів привітали бугалтерів з їхнім професійним святом.</p>
+                            <h2>С-300 ЗСУ задіяли у масштабних тренуваннях</h2>
+                            <p>Керівництво відбивали авіаналіт та знищення крилатих ракет (відео)</p>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -40,8 +40,8 @@ class Slider extends React.Component {
                         />
 
                         <Carousel.Caption>
-                            <h2>Гості до бугалторів </h2>
-                            <p>11 листопада на факультеті №2 ВІТІ відбулася зустріч з полковником Потєхіним</p>
+                            <h2>"Гетьман Сагайдачний" не в строю</h2>
+                            <p>11 листопада в Одесі пройшла репетиція параду ВМС </p>
                         </Carousel.Caption>
                     </Carousel.Item>
                 </Carousel>
